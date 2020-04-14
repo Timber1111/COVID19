@@ -42,7 +42,7 @@ Caregiver models based on Decathlon products
 - Quality: 8/10
 
 <p align="center">
-  <img src="/assets/covid_HNFC.png" width="300">
+  <img src="/Screenshot 2020-03-28 at 19.32.55.png" width="300">
   <img src="/assets/utbm-7.jpg" width="300">
 </p>  
 
